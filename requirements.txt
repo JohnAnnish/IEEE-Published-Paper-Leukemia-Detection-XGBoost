@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python-headless
+tensorflow
+scikit-learn
+tqdm
+scikit-fuzzy
+matplotlib
+xgboost
+seaborn
